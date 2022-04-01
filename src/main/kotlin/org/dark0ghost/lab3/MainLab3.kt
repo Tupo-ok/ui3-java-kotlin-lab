@@ -6,6 +6,6 @@ package org.dark0ghost.lab3
  * recognized at this time.
  */
 fun main() {
-    val app = AStarApp(190, 100)
+    val app = AStarApp(10, 10)
     app.start()
 }
